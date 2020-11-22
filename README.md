@@ -102,7 +102,7 @@ print(satukan)
 
 
 ## Praktikum_Ke_4
-![ptc](pict/Praktikum4.png)<br>
+![ptc](pict/Praktikum4.png)
 
 ![3](pict/Program.png)<br>
 
