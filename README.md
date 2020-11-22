@@ -149,5 +149,5 @@ Jika Ya [y]<br>
 Jika Tidak [t]<br>
 ![pr1](pict/tidak.png)
 
-**Flow Chart**
+**Flow Chart** <br>
 ![pr1](pict/fc.png)
