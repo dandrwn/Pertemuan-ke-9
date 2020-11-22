@@ -66,7 +66,7 @@ daftar[3:5] = [4,110]
 print(daftar)
 ```
 **output dari hasil inputan di atas**
-![2](pict/soal2.jpg)<br>
+![2](pict/soal2.jpg)
 yang di garis bawah perubahannya<br>
 
 * 3. Menambahkan elemen
@@ -98,14 +98,14 @@ satukan=daftar2+daftar
 print(satukan)
 ```
 **output Hasil dari inputan di atas**
-![3](pict/soal3.png)<br>
+![3](pict/soal3.png)
 
 
 ## Praktikum_Ke_4
-![ptc](pict/Praktikum4.png)<br>
+![ptc](pict/Praktikum4.png)
 
 Hasil yang di keluarkan harus seperti gambar di bawah ini<br>
-![ke3](pict/Program.png)<br>
+![ke3](pict/pp.png)
 
 Untuk Codingan saya[CLICK HERE](Praktikum4.py)<br> 
 ``` python
@@ -144,10 +144,10 @@ print(x)
 ```
 **output Hasil dari inputan di atas**
 Jika Ya [y]<br>
-![pr1](pict/ya.png)<br>
+![pr1](pict/ya.png)
 
 Jika Tidak [t]<br>
-![pr1](pict/tidak.png)<br>
+![pr1](pict/tidak.png)
 
 **Flow Chart**
-![pr1](pict/fc.png)<br>
+![pr1](pict/fc.png)
