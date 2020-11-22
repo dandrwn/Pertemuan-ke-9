@@ -104,10 +104,10 @@ print(satukan)
 ## Praktikum_Ke_4
 ![ptc](pict/Praktikum4.png)
 
-Hasil yang di keluarkan harus seperti gambar di bawah ini<br>
+
 ![ke3](pict/pp.png)
 
-Untuk Codingan saya[CLICK HERE](Praktikum4.py)<br> 
+Untuk Codingan saya [CLICK HERE](Praktikum4.py)<br> 
 ``` python
 from prettytable import PrettyTable
 # Membuat list kosong untuk menampung
