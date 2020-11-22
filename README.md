@@ -9,7 +9,7 @@ KELAS   : TI.20.B1 <br>
 | NO | DESCRIPTION | LINK |
 | ---- | ----- | ----|
 | 1 | Latihan  | [CLICK HERE](#latihan) |
-| 2 | Praktikum ke 4  | [CLICK HERE]() |
+| 2 | Praktikum ke 4  | [CLICK HERE](#Praktikum_Ke_4) |
 
 ## Latihan
 Latihan soal pada pertemeuan ke 9 bagian ke 1 <br> 
@@ -103,6 +103,7 @@ print(satukan)
 
 ## Praktikum_Ke_4
 ![ptc](pict/Praktikum4.png)<br>
+
 ![3](pict/Program.png)<br>
 
 Untuk Codingan saya[CLICK HERE](Praktikum4.py)<br> 
